@@ -126,7 +126,7 @@ export default function Main() {
                   />
                 </div>
                 <h5 class="m-0 font-weight-bold">
-                  The morning after: What people
+                  48-Year-Old Civil Servant Farts, Has Heart Attack
                 </h5>
               </div>
               <div class="d-flex justify-content-between mb-3 mb-lg-0">
@@ -137,7 +137,7 @@ export default function Main() {
                     class="banner-top-thumb"
                   />
                 </div>
-                <h5 class="m-0 font-weight-bold">How Hungary produced the</h5>
+                <h5 class="m-0 font-weight-bold">Diet Pills Found To Stimulate Appetite For Babies</h5>
               </div>
               <div class="d-flex justify-content-between mb-3 mb-lg-0">
                 <div>
@@ -148,7 +148,7 @@ export default function Main() {
                   />
                 </div>
                 <h5 class="m-0 font-weight-bold">
-                  A sleepy island paradise's most
+                  Police Begin Campaign To Run Down Jaywalkers
                 </h5>
               </div>
               <div class="d-flex justify-content-between mb-3 mb-lg-0">
@@ -160,7 +160,7 @@ export default function Main() {
                   />
                 </div>
                 <h5 class="m-0 font-weight-bold">
-                  America's most popular national
+                  Weirdos Paid Big Bucks To Suck Up to the Pope
                 </h5>
               </div>
             </div>
@@ -172,10 +172,12 @@ export default function Main() {
                   <div class="carousel-content-wrapper mb-2">
                     <div class="carousel-content">
                       <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        Chick-Fil-A Founder Opens Trucks Near Gay Pride Parade
                       </h1>
                       <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        NEW YORK—In an effort to prove that he doesn't hate gay people, Chick-Fil-A founder Dan Cathy opened four food trucks near the site of this Sunday's Gay Pride Parade in New York City.
+
+"We want to show America that we're not the bigots everyone thinks we are," said Cathy. "All we've ever wanted is the right to be left alone. We're not trying to force our beliefs on anyone else.
                       </h5>
                       <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -193,10 +195,14 @@ export default function Main() {
                   <div class="carousel-content-wrapper mb-2">
                     <div class="carousel-content">
                       <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        Hey, Lady, Your Vagina Is Showing
                       </h1>
                       <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        There's absolutely no need to bare it all at the grocery store or on the subway. It's not cute. It's not funny. No matter how many of your friends tell you it is, it's not.
+
+I'm not just talking about girls who have an entire third of their ass hanging out of their pants. That's gross. I'm talking about girls who don't even have the decency to wear a thong and instead go commando.
+
+This isn't a fashion statement. 
                       </h5>
                       <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -214,10 +220,12 @@ export default function Main() {
                   <div class="carousel-content-wrapper mb-2">
                     <div class="carousel-content">
                       <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        Noted A-Hole Still An A-Hole
                       </h1>
                       <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        BOSTON—Despite his arrest last year on charges of defrauding a number of investors out of millions of dollars, noted asshole Brian T. Booker is in fact still a noted asshole, sources confirmed Friday.
+
+"Yeah, we figured as much," said Sergeant Walter H. Henley of the Boston Police Department, who led the investigation into Booker's fraudulent business dealings.
                       </h5>
                       <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -235,10 +243,12 @@ export default function Main() {
                   <div class="carousel-content-wrapper mb-2">
                     <div class="carousel-content">
                       <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        President Builds Epic Tree House
                       </h1>
                       <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        ARLINGTON, VA—In an attempt to build a dwelling that would stand the test of time, President Barack Obama announced Wednesday the completion of his epically awesome tree house.
+
+                    Standing taller than the White House itself, the two-story tree house is said to include a rope bridge connecting a crow's nest at the top to a jacuzzi and a tennis court on the ground floor, as well as a wooden throne carved from a redwood tree. It also features a variety of hidden passageways and a secret tunnel...
                       </h5>
                       <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -267,7 +277,7 @@ export default function Main() {
                       <span class="fs-12 text-muted">Henry Itondo</span>
                     </div>
                     <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                      The Most And Least Visited Countries In The World
+                      Stranger Drowns In Puddle Of Own Tears
                     </p>
                   </div>
                 </div>
@@ -282,7 +292,7 @@ export default function Main() {
                       <span class="fs-12 text-muted">Oka Tomoaki</span>
                     </div>
                     <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                      The Best Places to Travel in month August
+                      Cease-Fire Negotiations Break Down After Twenty Seconds
                     </p>
                   </div>
                 </div>
@@ -314,7 +324,7 @@ export default function Main() {
                       <span class="fs-12 text-muted">Rita Leite</span>
                     </div>
                     <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                      Bread Is The Most Widely Consumed Food In The World
+                      Area Man Is Rich And Powerful Enough To Have Any Woman He Wants
                     </p>
                   </div>
                 </div>
@@ -331,7 +341,7 @@ export default function Main() {
                       <span class="fs-12 text-muted">Jurrien Oldhof</span>
                     </div>
                     <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                      What Is Music, And What Does It Mean To Us
+                      When’s The Last Time You Had Sex With A Robot? Meet My Wife
                     </p>
                   </div>
                 </div>
@@ -343,10 +353,10 @@ export default function Main() {
                         class="img-xs img-rounded mr-2"
                         alt="thumb"
                       />
-                      <span class="fs-12 text-muted">Yamaha Toshinobu</span>
+                       <span class="fs-12 text-muted">Yamaha Toshinobu</span>
                     </div>
                     <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                      Is Breakfast The Most Important Meal Of The Day
+                      Man Who Mistook His Wife For A Hat Sues Her For Alimony
                     </p>
                   </div>
                 </div>
@@ -459,12 +469,10 @@ export default function Main() {
                   />
                 </div>
                 <h1 class="font-weight-600 mt-3">
-                  Melania Trump speaks about courage at State Department
+                  Large-Breasted Woman Sleeps On Sofa
                 </h1>
                 <p class="fs-15 font-weight-normal">
-                  Lorem Ipsum has been the industry's standard dummy text ever
-                  since the 1500s, when an unknown printer took a galley of type
-                  and
+                  CATANIA, ITALY–According to a report published Thursday in the journal Science Advances, a woman with 38DD breasts was recently found sleeping on a sofa. “This is a first-of-its-kind discovery,” said lead researcher Dr. Giancarlo Giorgi, adding that he had never before seen a woman with such abnormally large breasts and was “very surprised” to find one sleeping on a sofa. 
                 </p>
               </div>
               <div class="col-lg-6  mb-5 mb-sm-2">
@@ -478,10 +486,11 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      A look at California's eerie plane graveyards
+                      Jesus Christ: Gay Icon?
                     </h5>
                     <p class="fs-15 font-weight-normal">
-                      Lorem Ipsum has been the industry's standard dummy text
+                     For years, the gay community has been using Jesus as the ultimate gay icon. But now, in a shocking turn of events, Jesus is coming out of the closet, and he's saying he's gay.
+                    "People have been saying I'm gay for 2,000 years now," said a beaming Jesus, adding that he's "finally comfortable enough in my own skin" to reveal the truth about his sexuality. "I'm here today to tell you that yes, I am gay. And I couldn't be happier.
                     </p>
                   </div>
                   <div class="col-sm-6  mb-5 mb-sm-2">
@@ -493,7 +502,7 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      The world's most beautiful racecourses
+                      Record High Fertility Rate for Nymphomaniacs
                     </h5>
                     <p class="fs-15 font-weight-normal">
                       Lorem Ipsum has been the industry's standard dummy text
@@ -510,10 +519,10 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      Japan cancels cherry blossom festivals over virus fears
+                      Man Accidentally Cuts Off Penis; Finds It Mistakenly In Fridge 2 Years Later
                     </h5>
                     <p class="fs-15 font-weight-normal">
-                      Lorem Ipsum has been the industry's standard dummy text
+                      SEATTLE—A local man reportedly realized his penis had been severed from his body Tuesday when he opened the door of his refrigerator and discovered it sitting on a shelf in a plastic container. According to sources, the man, who is not being identified at this time, walked out of his bathroom in a daze, saying, "What the hell is this doing in here?" "I thought it was a weird, giant, green cucumber at first, but then I saw it moving," he continued. 
                     </p>
                   </div>
                   <div class="col-sm-6">
@@ -525,10 +534,10 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      Classic cars reborn as electric vehicles
+                     Man With Feces-Soaked Pants Stuck To Back Of Chair At Sewage Plant
                     </h5>
                     <p class="fs-15 font-weight-normal">
-                      Lorem Ipsum has been the industry's standard dummy text
+                      RENO, NV—According to reports from Nevada's Washoe County Regional County Sanitation Facility, one of the center's janitors has not been seen all day after becoming caught on the back of a chair with his pants' waistband hopelessly ensnared around a leg rest and crotch stuck to the seat. 
                     </p>
                   </div>
                 </div>
@@ -555,7 +564,7 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      The island country that gave Mayor Pete his name
+                      Transvestite Telephones Wrong Number for Anal Sex
                     </h5>
                   </div>
                   <div class="col-sm-4 mb-5 mb-sm-2">
@@ -567,7 +576,7 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      Disney parks expand (good) vegan food options
+                      I'm A Dork, But Miley Cyrus' 'Erotic' Wrecking Ball Video Gives Me A Chubby
                     </h5>
                   </div>
                   <div class="col-sm-4 mb-5 mb-sm-2">
@@ -579,7 +588,7 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      A hot springs where clothing is optional after dark
+                      Man Stabs Bible Believing It To Be Thing That Tries to Control People's Thoughts
                     </h5>
                   </div>
                 </div>
@@ -593,7 +602,8 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      Japanese chef carves food into incredible pieces of art
+                      Russia Sues U.S., Claims Humanitarian Crisis Delaying Diplomatic Relations
+
                     </h5>
                   </div>
                   <div class="col-sm-4 mb-5 mb-sm-2">
@@ -605,7 +615,7 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      The Misanthrope Society: A Taipei bar for people who
+                       Man Commits Suicide By Jogging With Foreskin Tied Tightly Around His Neck
                     </h5>
                   </div>
                   <div class="col-sm-4 mb-5 mb-sm-2">
@@ -617,7 +627,7 @@ export default function Main() {
                       />
                     </div>
                     <h5 class="font-weight-600 mt-3">
-                      From Pakistan to the Caribbean: Curry's journey
+                      Good Man is Tired of Being Responsible For Whole World's Problems
                     </h5>
                   </div>
                 </div>
@@ -642,7 +652,7 @@ export default function Main() {
                   <div class="col-sm-12">
                     <div class="border-bottom pb-3">
                       <h5 class="font-weight-600 mt-0 mb-0">
-                        South Korea’s Moon Jae-in sworn in vowing address
+                        1,500-Year-Old Forum Posts Reveal Ancient Computer Users Bitch And Moan Just Like Us
                       </h5>
                       <p class="text-color m-0 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -655,7 +665,7 @@ export default function Main() {
                   <div class="col-sm-12">
                     <div class="border-bottom pt-4 pb-3">
                       <h5 class="font-weight-600 mt-0 mb-0">
-                        South Korea’s Moon Jae-in sworn in vowing address
+                         I Gave Birth To A Chicken Egg The Other Day
                       </h5>
                       <p class="text-color m-0 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -668,7 +678,7 @@ export default function Main() {
                   <div class="col-sm-12">
                     <div class="border-bottom pt-4 pb-3">
                       <h5 class="font-weight-600 mt-0 mb-0">
-                        South Korea’s Moon Jae-in sworn in vowing address
+                       Crack-Smoking Handicapped Former Prostitute To Be Inducted Into National Women's Basketball Hall of Fame
                       </h5>
                       <p class="text-color m-0 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -681,7 +691,7 @@ export default function Main() {
                   <div class="col-sm-12">
                     <div class="pt-4">
                       <h5 class="font-weight-600 mt-0 mb-0">
-                        South Korea’s Moon Jae-in sworn in vowing address
+                        Man Lets Heroin Addict Give Himself a Fix in Exchange For Work
                       </h5>
                       <p class="text-color m-0 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
