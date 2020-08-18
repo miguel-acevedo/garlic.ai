@@ -1,0 +1,6 @@
+export const posts = {
+    "just-be-gay" : {
+        "title": "In Case of Radiation Emergency, Don't Worry, be Gay",
+        "content": `HAZARD, KY-In anticipation of what experts are calling "the worst disaster since that time they accidentally dropped a hunk of Velma's waffle house on the sun," residents have been asked to remain calm but also be homosexual. "It may seem counterintuitive at first," said FEMA spokesperson Darrell Troland Blasse. "but please believe our experts when we say being gay is the only logical way to ride out a radiation emergency." If possible, one should try getting other people in your area to be queer right alongside you, as this will help form a bridge between society and nature known as Biconceptualism. As illustrated by the well-known biconceptual mudslide survivors Charles Darwin Haynes and Glenn James Browning II, having just two homosexuals can sometimes make all the difference in an emergency situation. LGBT groups have already set up several roaming mobile bisexual empowerment zones throughout Hazardsilt Valley so locals who would rather not become homoerotic because it really isn't their cup of tea will nonetheless feel comfortable engaging each other sexually with absolutely no strings attached.`
+    }
+};
