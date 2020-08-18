@@ -505,7 +505,8 @@ This isn't a fashion statement.
                       Record High Fertility Rate for Nymphomaniacs
                     </h5>
                     <p class="fs-15 font-weight-normal">
-                      Lorem Ipsum has been the industry's standard dummy text
+                      WASHINGTON, DC—The National Center for Health Statistics announced Tuesday that the fertility rate for nymphomaniacs is at an all-time high, with the average female nymphomaniac now having sex with more than six men per day.
+
                     </p>
                   </div>
                 </div>
