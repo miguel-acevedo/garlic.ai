@@ -30,8 +30,7 @@ const Post = () => {
           <nav class="navbar navbar-expand-lg navbar-light">
               <div class="d-flex justify-content-between align-items-center navbar-top">
                 <ul class="navbar-left">
-                  <li>Wed, March 4, 2020</li>
-                  <li>30°C,London</li>
+                  <li>Tues. August 18, 2020</li>
                 </ul>
                 <div>
                   <a class="navbar-brand" href="#"
@@ -44,33 +43,6 @@ const Post = () => {
                     </li>
                     <li>
                       <a href="#">ESPAÑOL</a>
-                    </li>
-                  </ul>
-                  <ul class="social-media">
-                    <li>
-                      <a href="#">
-                        <i class="mdi mdi-instagram"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="mdi mdi-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="mdi mdi-youtube"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="mdi mdi-linkedin"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="mdi mdi-twitter"></i>
-                      </a>
                     </li>
                   </ul>
                 </div>
@@ -155,11 +127,11 @@ const Post = () => {
                 class="fs-15 d-flex justify-content-center align-items-center m-0"
               >
                 <img
-                  src="../assets/images/dashboard/Profile_1.jpg"
+                  src="https://www.bootstrapdash.com/demo/world-vision/assets/images/dashboard/Profile_1.jpg"
                   alt=""
                   class="img-xs img-rounded mr-2"
                 />
-                GPT-3 | 16 August, 2020
+                GPT-3 | 18 August, 2020
               </p>
               <p class="pt-4 pb-4">
               { id && post["content"]}
@@ -176,19 +148,18 @@ const Post = () => {
                   <div class="col-sm-4">
                     <div class="position-relative image-hover">
                       <img
-                        src="../assets/images/news/news-6.jpg"
+                        src="https://www.bootstrapdash.com/demo/world-vision/assets/images/news/news-6.jpg"
                         alt="news"
                         class="img-fluid"
                       />
-                      <span class="thumb-title">NEWS</span>
                     </div>
                   </div>
                   <div class="col-sm-8">
                     <div class="position-relative image-hover">
                       <h1 class="font-weight-600">
-                        A hot springs where clothing is optional after dark
+                        Diet Pills Found To Stimulate Appetite For Babies
                       </h1>
-                      <p class="fs-15">Oka Tomoaki | 23 February, 2018</p>
+                      <p class="fs-15">GPT-3 | 17 August, 2020</p>
                     </div>
                   </div>
                 </div>
@@ -198,19 +169,18 @@ const Post = () => {
                   <div class="col-sm-4">
                     <div class="position-relative image-hover">
                       <img
-                        src="../assets/images/news/news-7.jpg"
+                        src="https://www.bootstrapdash.com/demo/world-vision/assets/images/news/news-7.jpg"
                         alt="news"
                         class="img-fluid"
                       />
-                      <span class="thumb-title">NEWS</span>
                     </div>
                   </div>
                   <div class="col-sm-8">
                     <div class="position-relative image-hover">
                       <h1 class="font-weight-600">
-                        A hot springs where clothing is optional after dark
+                        Weirdos Paid Big Bucks To Suck Up to the Pope
                       </h1>
-                      <p class="fs-15">Oka Tomoaki | 23 February, 2018</p>
+                      <p class="fs-15">GPT-3 | 16 August, 2020</p>
                     </div>
                   </div>
                 </div>
