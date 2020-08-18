@@ -460,7 +460,8 @@ This isn't a fashion statement.
               </div>
             </div>
             <div class="row">
-              <div class="col-lg-6  mb-5 mb-sm-2">
+
+              {/* <div class="col-lg-6  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                   <img
                     src="https://www.bootstrapdash.com/demo/world-vision/assets/images/dashboard/glob.jpg"
@@ -474,7 +475,28 @@ This isn't a fashion statement.
                 <p class="fs-15 font-weight-normal">
                   CATANIA, ITALY–According to a report published Thursday in the journal Science Advances, a woman with 38DD breasts was recently found sleeping on a sofa. “This is a first-of-its-kind discovery,” said lead researcher Dr. Giancarlo Giorgi, adding that he had never before seen a woman with such abnormally large breasts and was “very surprised” to find one sleeping on a sofa. 
                 </p>
+
+              </div> */}
+
+              <div class="col-lg-6  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                  <img
+                    src="https://www.bootstrapdash.com/demo/world-vision/assets/images/dashboard/glob.jpg"
+                    class="img-fluid"
+                    alt="world-news"
+                  />
+                </div>
+                <h1 class="font-weight-600 mt-3">
+                Curfew Imposed Throughout China On Basis Of 'Pokemon Go War' Between Teams Valor and Mystic
+                </h1>
+                <p class="fs-15 font-weight-normal">
+                BEIJING—In an effort to prevent any further escalation of the ongoing Pokemon Go war between the factions Valor and Mystic, Chinese Defense Minister Chang Wanquan announced Thursday the imposition of a nationwide curfew effective immediately. “Due to the tense situation in East Asia, we have no choice but to take this extreme step,” said Wanquan to assembled reporters, adding that residents of every city and town in China were now required to be indoors by 9 p.m. “We must put the safety of the Chinese people first.” The curfew will remain in effect until the Pokemon Go War is resolved, Wanquan said, noting that full-scale military intervention was being considered should things get “completely out of hand.”
+
+Wanquan went on to warn Chinese citizens to stay off their cell phones entirely after dark, while also advising them to refrain from leaving their homes at all between 6 a.m. and noon. 
+                </p>
+
               </div>
+
               <div class="col-lg-6  mb-5 mb-sm-2">
                 <div class="row">
                   <div class="col-sm-6  mb-5 mb-sm-2">
